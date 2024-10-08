@@ -15,8 +15,8 @@ CrewAI Crew Builder is a Streamlit-based web application that allows users to cr
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/crewai-crew-builder.git
-   cd crewai-crew-builder
+   git clone https://github.com/lalomorales22/CrewAI-Builder.git
+   cd crewai-builder
    ```
 
 2. Create a virtual environment (optional but recommended):
